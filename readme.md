@@ -16,7 +16,13 @@ Example of usage:
 ```
 frida -U -l .\instagram-ssl-pinning-bypass-370plus.js -f com.instagram.android --no-pause
 ```
+## Tested versions
+| script  | version |
+| ------------- | ------------- |
+| instagram-ssl-pinning-bypass-370plus-alt.js  | [375.0.0.38.66](https://www.apkmirror.com/apk/instagram/instagram-instagram/instagram-375-0-0-38-66-release/)  |
+| instagram-ssl-pinning-bypass-370plus.js      | [374.0.0.43.67](https://www.apkmirror.com/apk/instagram/instagram-instagram/instagram-374-0-0-43-67-release/)  |
 
-### Contacts
-**Important!** I don't do private counseling. If you have questions or problems, open an issue\
+
+## Contacts
+Important! I don't do private counseling. ${\textsf{\color{red}If you have questions or problems, open an issue}}$ \
 telegram: [@expectedfailure](https://t.me/expectedfailure)
