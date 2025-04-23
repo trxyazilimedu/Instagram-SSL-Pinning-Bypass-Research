@@ -1,6 +1,7 @@
 # About Instagram SSL Pinning Bypass Research
-This repository is a continuation of [Eltion's](https://github.com/Eltion/Instagram-SSL-Pinning-Bypass) endeavor in faithfully studying the workings of instagram
+This repository is a continuation of [Eltion's](https://github.com/Eltion/Instagram-SSL-Pinning-Bypass) endeavor in faithfully studying the workings of instagram \
 
+Don't forget to leave a ⭐, it's free)
 
 ### If you have found this project helpful, please support it with a commit or donation
 
@@ -21,7 +22,8 @@ frida -U -l .\instagram-ssl-pinning-bypass-370plus.js -f com.instagram.android -
 | ------------- | ------------- |
 | instagram-ssl-pinning-bypass-370plus-alt.js  | [375.0.0.38.66](https://www.apkmirror.com/apk/instagram/instagram-instagram/instagram-375-0-0-38-66-release/)  |
 | instagram-ssl-pinning-bypass-370plus.js      | [374.0.0.43.67](https://www.apkmirror.com/apk/instagram/instagram-instagram/instagram-374-0-0-43-67-release/)  |
-
+| edits-ssl-pinning-bypass-377plus.js          | [377.0.0.53.108](https://www.apkmirror.com/apk/instagram/edits-an-instagram-app/edits-an-instagram-app-377-0-0-53-108-release/) |
+| threads-ssl-pinning-bypass-350plus.js        | [377.0.0.41.112](https://www.apkmirror.com/apk/instagram/threads-an-instagram-app/threads-377-0-0-41-112-release/) |
 
 ## Contacts
 Important! I don't do private counseling. ${\textsf{\color{red}If you have questions or problems, open an issue}}$ \
